@@ -11,13 +11,13 @@
 
 <br />
 
-- 🌱 I’m currently learning - **React/NextJS and NodeJS**
-
 - 💬 Ask me about - **Laravel, Vue**
 
-- 📫 How to reach me - **viethuongdev@gmail.com**
+- 🌱 I’m currently learning - **React/NextJS and NodeJS**
 
 - ⚡ Fun fact - **I'm f*cking hate donut** 🍩
+
+- 📫 How to reach me - **viethuongdev@gmail.com**
 
 <br />
 

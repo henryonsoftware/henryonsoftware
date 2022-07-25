@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Bui</h1>
-<h3 align="center">I'm a developer with 6+ years experience, mostly in web developer</h3>
+<h3 align="center">I'm a real dumb developer</h3>
 
 <br />
 

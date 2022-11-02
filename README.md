@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Henry Bui</h1>
-<h3 align="center">I'm a real dumb developer</h3>
+<p align="center">Welcome to my Github profile!</p>
+<p align="center">I'm using Twitter so if you want to contact please leave me a message on <a href="https://twitter.com/henrybui_io" target="_blank">@henrybui_io</a></p>
 
 <br />
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://twitter.com/henrybui_io" target="blank">
         <img src="https://img.shields.io/twitter/follow/henrybui_io?logo=twitter&style=for-the-badge" alt="henrybui_io" />
     </a>
 </p>
-
+ -->
 <br />
 
-- 💬 Ask me about - **Laravel, Vue**
 
-- 🌱 I’m currently learning - **React/NextJS and NodeJS**
+- 🌱 I’m currently learning - **React/NextJS**
 
 - ⚡ Fun fact - **I'm f*cking hate donut** 🍩
 

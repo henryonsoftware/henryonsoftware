@@ -5,8 +5,7 @@
 🌱&nbsp;&nbsp;I’m currently learning - **React** and **NextJS**
 
 📫&nbsp;&nbsp;How to reach me:
-  - Twitter:&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="henrybui_io" height="20" width="20" />&nbsp;&nbsp;<a href="https://twitter.com/henrybui_io" target="_blank">@henrybui_io</a></p>
-  - Email:&nbsp;&nbsp;viethuongdev@gmail.com
+  - Twitter:&nbsp;<a href="https://twitter.com/henrybui_io" target="_blank">@henrybui_io</a></p>
 
 ⚡&nbsp;&nbsp;Fun fact: I love croissant 🥐 but hate donut 🍩
 <br/><br/>

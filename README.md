@@ -2,7 +2,8 @@
 <p align="center">Welcome to my Github profile!</p>
 <br/><br/>
 
-🌱&nbsp;&nbsp;I’m currently learning - **React** and **NextJS**
+🌱&nbsp;&nbsp;Hello! I am a back-end developer with over 8 years of experience, specializing in PHP, Laravel, and Javascript.
+Over the years, I have been actively involved in large-scale projects for companies in Vietnam, Thailand, and Sweden, predominantly collaborating with international teams.
 
 📫&nbsp;&nbsp;How to reach me:
   - Twitter:&nbsp;<a href="https://twitter.com/henrybui_io" target="_blank">@henrybui_io</a></p>

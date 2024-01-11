@@ -50,7 +50,3 @@ Over the years, I have been actively involved in large-scale projects for compan
   <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>&nbsp;&nbsp;
 </p>
 <br/><br/>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryonsoftware&" alt="henryonsoftware" />
-</p>

@@ -51,5 +51,5 @@ Over the years, I have been actively involved in large-scale projects for compan
 </p>
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=henryonsoftware)](https://git.io/streak-stats)
 

@@ -7,7 +7,6 @@ Over the years, I have been actively involved in large-scale projects for compan
 
 📫&nbsp;&nbsp;How to reach me:
   - Twitter:&nbsp;<a href="https://twitter.com/henrybui_io" target="_blank">@henrybui_io</a></p>
-  - Email:&nbsp;<a href="mailto:viethuongdev@gmail.com" target="_blank">viethuongdev@gmail.com</a></p>
 
 ⚡&nbsp;&nbsp;Fun fact: I love croissant 🥐 but hate donut 🍩
 <br/><br/>
